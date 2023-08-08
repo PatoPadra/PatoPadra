@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="juegoDeLaVida" targetName="gmock" />
+      <config projectName="juegoDeLaVida" targetName="juegoDeLaVida" />
+      <config projectName="juegoDeLaVida" targetName="gmock_main" />
+      <config projectName="juegoDeLaVida" targetName="gtest_main" />
+      <config projectName="juegoDeLaVida" targetName="gtest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="983379ac-8235-4c77-a54d-bf188a4431c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../TPI-toroide\exportToHTML" />
+  </component>
+  <component name="ProjectId" id="1kD5jGeyTPn8B5ImwrMGnQdzbzE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pato\Desktop\Algoritmos\labo\tp implementacion\TPI-template\TPI-toroide\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Google Test.juegoDeLaVida">
+    <configuration name="All in EJ01_toroideValidoTEST.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVida" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" TEST_PATTERN="all-tests(file://$PROJECT_DIR$/tests/EJ01_toroideValidoTEST.cpp)" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in EJ14_menorSuperficieVivaTEST.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVida" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" TEST_PATTERN="all-tests(file://$PROJECT_DIR$/tests/EJ14_menorSuperficieVivaTEST.cpp)" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cantindadVivasTEST.hayVivos" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVida" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" TEST_CLASS="cantindadVivasTEST" TEST_METHOD="hayVivos" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="juegoDeLaVida" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVida" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menorSuperficieViva2TEST.enunciado" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVida" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" TEST_CLASS="menorSuperficieViva2TEST" TEST_METHOD="enunciado" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menorSuperficieVivaTEST.enunciado" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVida" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" TEST_CLASS="menorSuperficieVivaTEST" TEST_METHOD="enunciado" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.juegoDeLaVida" />
+      <item itemvalue="Google Test.All in EJ01_toroideValidoTEST.cpp" />
+      <item itemvalue="Google Test.cantindadVivasTEST.hayVivos" />
+      <item itemvalue="Google Test.All in EJ14_menorSuperficieVivaTEST.cpp" />
+      <item itemvalue="Google Test.menorSuperficieVivaTEST.enunciado" />
+      <item itemvalue="Google Test.menorSuperficieViva2TEST.enunciado" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.menorSuperficieViva2TEST.enunciado" />
+        <item itemvalue="Google Test.menorSuperficieVivaTEST.enunciado" />
+        <item itemvalue="Google Test.All in EJ14_menorSuperficieVivaTEST.cpp" />
+        <item itemvalue="Google Test.cantindadVivasTEST.hayVivos" />
+        <item itemvalue="Google Test.All in EJ01_toroideValidoTEST.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="983379ac-8235-4c77-a54d-bf188a4431c2" name="Default Changelist" comment="" />
+      <created>1605222455269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605222455269</updated>
+      <workItem from="1605222457788" duration="3338000" />
+      <workItem from="1605278408224" duration="1672000" />
+      <workItem from="1605280164772" duration="401000" />
+      <workItem from="1605280618338" duration="6826000" />
+      <workItem from="1605730598786" duration="101000" />
+      <workItem from="1605896910958" duration="1441000" />
+      <workItem from="1606159580684" duration="779000" />
+      <workItem from="1606686922018" duration="2440000" />
+      <workItem from="1606691283076" duration="1200000" />
+      <workItem from="1606753987715" duration="1059000" />
+      <workItem from="1606764367029" duration="596000" />
+      <workItem from="1606793594107" duration="8366000" />
+      <workItem from="1606843259109" duration="1866000" />
+      <workItem from="1606848795194" duration="238000" />
+      <workItem from="1606850896836" duration="9003000" />
+      <workItem from="1606863175731" duration="18869000" />
+      <workItem from="1606922740398" duration="9278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606859636052">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1606859636052" />
+    <state x="594" y="185" key="FileChooserDialogImpl" timestamp="1606853532786">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="594" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606853532786" />
+    <state width="1557" height="275" key="GridCell.Tab.0.bottom" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.0.center" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.0.left" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.0.right" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.1.center" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.1.left" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state width="1557" height="275" key="GridCell.Tab.1.right" timestamp="1606932128075">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606932128075" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605280105939">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1605280105939" />
+    <state x="507" y="11" width="585" height="837" key="find.popup" timestamp="1606925194382">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="11" width="585" height="837" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1606925194382" />
+    <state x="525" y="214" key="refactoring.ChangeSignatureDialog" timestamp="1606858923351">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="525" y="214" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1606858923351" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1606924850746">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1606924850746" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="../../../../Desktop/Algoritmos/labo/tp implementacion/TPI-template/TPI-toroide/cmake-build-debug" NAME="juegoDeLaVida Coverage Results" MODIFIED="1606931741504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="gcov/llvm" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="../../../../Desktop/Algoritmos/labo/tp implementacion/TPI-template/TPI-toroide/cmake-build-debug" NAME="juegoDeLaVida Coverage Results" MODIFIED="1606886475815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="gcov/llvm" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
